@@ -1,0 +1,4 @@
+[2023-06-28T09:40:48+00:00][info] Authentication Failed "d@gmail.com"."1"
+[2023-06-28T09:40:48+00:00][info] 
+[2023-06-28T09:50:33+00:00][info] Unauthorized access attempt by : email => 'd@gmail.com' password => '1'
+[2023-06-28T09:52:08+00:00][info] Login succesfully by  : email => 'd@gmail.com' password => '123'
